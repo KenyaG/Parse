@@ -1,23 +1,23 @@
 # Parse
-# Project 3 - *Name of App Here*
+# Project 3 - Parsegram
 
-**Name of your app** is a photo sharing app using Parse as its backend.
+SnapGram is a photo sharing app using Parse as its backend.
 
-Time spent: **X** hours spent in total
+Time spent:25 hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [ ] User can sign up to create a new account using Parse authentication
-- [ ] User can log in and log out of his or her account
+- [x] User can sign up to create a new account using Parse authentication
+- [x] User can log in and log out of his or her account
 - [ ] The current signed in user is persisted across app restarts
-- [ ] User can take a photo, add a caption, and post it to "Instagram"
-- [ ] User can view the last 20 posts submitted to "Instagram"
+- [x ] User can take a photo, add a caption, and post it to "Instagram"
+- [x] User can view the last 20 posts submitted to "Instagram"
 - [ ] User can pull to refresh the last 20 posts submitted to "Instagram"
 - [ ] User can load more posts once he or she reaches the bottom of the feed using infinite Scrolling
-- [ ] User can tap a post to view post details, including timestamp and creation
-- [ ] User can use a tab bar to switch between all "Instagram" posts and posts published only by the user.
+- [x] User can tap a post to view post details, including timestamp and creation
+- [x] User can use a tab bar to switch between all "Instagram" posts and posts published only by the user.
 
 The following **optional** features are implemented:
 
@@ -45,7 +45,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/tClJb7tf' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -62,7 +62,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2016 Kenya Gordon
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
